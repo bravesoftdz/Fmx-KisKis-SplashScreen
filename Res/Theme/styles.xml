@@ -1,0 +1,14 @@
+<resources>
+
+<color name="Blue_opaque">#F0EAEAFB</color>
+<color name="Blue_Skype">#FF0087B4</color>
+<color name="transparent">#00000000</color>
+
+    <style name="BraveSofts.Theme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_image_def</item>
+        <item name="android:windowClipToOutline">false</item>
+     	<item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>
